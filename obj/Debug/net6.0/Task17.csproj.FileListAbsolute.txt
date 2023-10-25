@@ -1,0 +1,17 @@
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.csproj.AssemblyReference.cache
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.AssemblyInfoInputs.cache
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.AssemblyInfo.cs
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Task17.exe
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Task17.deps.json
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Task17.runtimeconfig.json
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Task17.dll
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Task17.pdb
+C:\Users\ca.r214.05\Desktop\Task17\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.csproj.CopyComplete
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.dll
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\refint\Task17.dll
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.pdb
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\Task17.genruntimeconfig.cache
+C:\Users\ca.r214.05\Desktop\Task17\obj\Debug\net6.0\ref\Task17.dll
